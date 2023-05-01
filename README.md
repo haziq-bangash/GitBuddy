@@ -3,7 +3,7 @@
 This is a GitBuddy App that helps you find github users and their repositories.
 
 ## Author
-[Haziq Ali]('https://github.com/haziq-bangash')
+[Haziq Ali](https://github.com/haziq-bangash)
 
 ## Technologies Used
 - Next JS
@@ -21,4 +21,4 @@ This is a GitBuddy App that helps you find github users and their repositories.
 - Run `npm run dev` to run the app in development mode
 
 ## Live Demo
-[Live Demo]('https://gitbuddy.vercel.app/')
+[Live Demo](https://gitbuddy.vercel.app/)
